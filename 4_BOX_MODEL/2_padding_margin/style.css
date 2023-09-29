@@ -1,0 +1,19 @@
+div{
+    border: 3px solid green;
+    width: fit-content;
+    /* font-size: 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */
+    /* shorthand */
+    /* 1 valor 1 mesmo valor pra mesmoos 4 lados*/ 
+    padding: 20px;
+    /* 2 valores => 1 top bottom/ 2 right e left */
+    padding: 30px 50px;
+    /* 3 valores => 1 top left /2 top botton/3 right */
+    padding: 20px 50px 5px;
+    /* 4 valores => 1 top */
+
+
+}
